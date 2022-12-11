@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-11T04:26:33.662120200Z</date>
+  <millis>1670732793662</millis>
+  <nanos>120200</nanos>
+  <sequence>0</sequence>
+  <logger>HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>/</message>
+</record>
+<record>
+  <date>2022-12-11T04:26:36.390715100Z</date>
+  <millis>1670732796390</millis>
+  <nanos>715100</nanos>
+  <sequence>1</sequence>
+  <logger>HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>9.0</message>
+</record>
+<record>
+  <date>2022-12-11T04:26:39.050579800Z</date>
+  <millis>1670732799050</millis>
+  <nanos>579800</nanos>
+  <sequence>2</sequence>
+  <logger>HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2.0</message>
+</record>
+<record>
+  <date>2022-12-11T04:26:39.079556900Z</date>
+  <millis>1670732799079</millis>
+  <nanos>556900</nanos>
+  <sequence>3</sequence>
+  <logger>HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>9.0 / 2.0 = 4.5</message>
+</record>
+</log>
